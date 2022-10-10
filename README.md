@@ -1,2 +1,2 @@
 # card_component
-A reusable card component built using html and css
+A responsive and reusable card component built using html and css
